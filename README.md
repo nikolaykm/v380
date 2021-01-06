@@ -1,3 +1,7 @@
+###
+Need to install FFMpeg first
+###
+
 # v380
 Extract h264 from v380 camera where you can use it to feed another application
 
